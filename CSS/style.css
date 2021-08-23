@@ -1,0 +1,29 @@
+header h1 
+{
+    font-size: 60px;
+}
+body{
+    font-family: sans-serif;
+}
+
+h2 {
+    font-size: 35px;
+    background-color: aquamarine;
+    color: white
+
+}
+
+section {
+    background-color: aquamarine;
+}
+
+section + section {
+
+    background-color: blue;
+;
+}
+
+.fundo-azul {
+    background-color: blue;
+    color: red;
+}
